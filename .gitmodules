@@ -1,0 +1,7 @@
+[submodule "external/configurations"]
+	path = external/configurations
+	url = https://github.com/cyrus01337/configurations.git
+[submodule "src/Shared/Utilities"]
+	path = src/Shared/Utilities
+	url = https://github.com/cyrus01337/utilities.git
+	branch = luau

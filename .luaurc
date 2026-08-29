@@ -1,0 +1,23 @@
+{
+    "aliases": {
+        "lune": "~/.lune/.typedefs/0.10.5/"
+    },
+    "luau-lsp": {
+        "sourcemap": {
+            "sourcemapFile": "sourcemap.json"
+        },
+        "types": {
+            "roblox": true
+        }
+    },
+    "runtime": {
+        "version": "Luau"
+    },
+    "workspace": {
+        "checkThirdParty": false,
+        "library": [
+            "Packages",
+            "Serverpackages"
+        ]
+    }
+}

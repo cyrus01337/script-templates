@@ -1,0 +1,11 @@
+[package]
+name = "cyrus/roblox-pipeline"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+GreenTea = "corecii/greentea@0.4.11"
+
+[server-dependencies]
+ProfileStore = "lm-loleris/profilestore@1.0.3"

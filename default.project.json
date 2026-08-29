@@ -1,0 +1,25 @@
+{
+    "name": "roblox-pipeline",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$path": "src/Shared",
+            "ThirdParty": {
+                "$path": "Packages"
+            }
+        },
+        "ServerScriptService": {
+            "$path": "src/Server"
+        },
+        "ServerStorage": {
+            "ThirdParty": {
+                "$path": "ServerPackages"
+            }
+        },
+        "StarterPlayer": {
+            "StarterPlayerScripts": {
+                "$path": "src/Client"
+            }
+        }
+    }
+}
